@@ -1,5 +1,7 @@
 # Ember lightGallery integration Addon
 
+![Download count all time](https://img.shields.io/npm/dt/ember-light-gallery.svg) [![Build Status](https://travis-ci.org/dmuneras/ember-light-gallery.svg?branch=master)](https://travis-ci.org/dmuneras/ember-light-gallery.) [![Ember Observer Score](http://emberobserver.com/badges/ember-light-gallery.svg)](http://emberobserver.com/addons/ember-light-gallery.) [![npm version](https://badge.fury.io/js/ember-light-gallery.svg)](https://badge.fury.io/js/ember-light-gallery.)
+
 Lightweight, full customizable addon for [lightGallery](http://sachinchoolur.github.io/lightGallery/) plugin! This addon is compatible with fastboot!
 
 # Installation
